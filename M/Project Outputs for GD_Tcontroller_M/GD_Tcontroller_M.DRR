@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GD_Tcontroller_M.PcbDoc   2015/2/3  16:43:31
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GD_Tcontroller_M.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          55               17.92 Inch (455.23 mm)
+T2        27.56mil (0.70002mm)     Round          4                0.35 Inch (9.00 mm)
+T3        35.43mil (0.89992mm)     Round          22               2.63 Inch (66.80 mm)
+T4        39.37mil (1mm)           Round          9                5.96 Inch (151.36 mm)
+T5        41.34mil (1.05004mm)     Round          2                0.46 Inch (11.59 mm)
+T6        51.18mil (1.29997mm)     Round          36               10.37 Inch (263.50 mm)
+T7        59.06mil (1.50012mm)     Round          7                6.93 Inch (176.13 mm)
+T8        98.43mil (2.50012mm)     Round          6                3.58 Inch (91.00 mm)
+T9        118.11mil (2.99999mm)    Round          1                0.00 Inch (0.00 mm)
+T10       125.98mil (3.19989mm)    Round          5                12.25 Inch (311.15 mm)
+---------------------------------------------------------------------------
+Totals                                            147              60.46 Inch (1535.76 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

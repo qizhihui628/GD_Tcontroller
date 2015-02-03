@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [GD_Tcontroller.PrjPcb]
+   Generated File[Pick Place for GD_Tcontroller.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:42:23 On 2015/2/3

@@ -1,0 +1,83 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C2         TAN3216                508mil        947mil        508mil        947mil        508mil   1002.118mil  T        270.00 CAPACITOR      
+J3         SCREWFG3_2         669.291mil     118.11mil    669.291mil     118.11mil    669.291mil     118.11mil  T        180.00 Socket         
+P2         DC3-10P           1564.173mil    829.921mil   1614.173mil    629.921mil   1614.173mil    629.921mil  T         90.00 Header 5X2     
+P1         DC3-12P           2294.095mil    773.622mil   2244.095mil   1023.622mil   2244.095mil   1023.622mil  T        270.00 Header 6X2     
+PWM1       HT5.08-3P-H        393.701mil     357.48mil    393.701mil     157.48mil    393.701mil     157.48mil  T         90.00 Header 3       
+J5         SCREWFG3_2        5984.252mil   1259.842mil   5984.252mil   1259.842mil   5984.252mil   1259.842mil  T        180.00 Socket         
+J4         SCREWFG3_2        2480.315mil     118.11mil   2480.315mil     118.11mil   2480.315mil     118.11mil  T        180.00 Socket         
+J2         SCREWFG3_2         787.402mil   1259.842mil    787.402mil   1259.842mil    787.402mil   1259.842mil  T        180.00 Socket         
+J1         SCREWFG3_2        6574.803mil     118.11mil   6574.803mil     118.11mil   6574.803mil     118.11mil  T        180.00 Socket         
+D1         SOT23-123         6470.307mil    694.598mil   6466.368mil    694.595mil       6427mil    657.197mil  B         90.00 TVS-D          
+C6         C0805                 1924mil        522mil       1924mil        522mil   1886.598mil        522mil  B        360.00 CAP            
+R8         R0805                 1866mil        257mil       1866mil        257mil       1866mil    219.598mil  B         90.00 RES            
+R4         R0805                 4225mil       1120mil       4225mil       1120mil       4225mil   1082.598mil  B         90.00                
+R3         R0805                 3715mil       1120mil       3715mil       1120mil       3715mil   1082.598mil  B         90.00                
+R2         R0805                 3235mil       1120mil       3235mil       1120mil       3235mil   1082.598mil  B         90.00                
+R1         R0805                 2730mil       1120mil       2730mil       1120mil       2730mil   1082.598mil  B         90.00                
+U5         TLP181            1395.434mil     225.59mil   1535.433mil    275.591mil   1535.434mil     175.59mil  T        180.00 TLP181         
+U2         DPAK-134          1929.134mil   1062.992mil   1929.134mil   1062.992mil   2019.094mil   1244.094mil  T        180.00 LM1117_ADJ     
+U1         SOIC8             2086.614mil     271.85mil   1968.504mil     196.85mil   1968.504mil     196.85mil  B         90.00 SN65HVD08D     
+RE6        G5RL-1A-E         5521.654mil    767.716mil   5669.291mil   1259.842mil   5669.291mil   1259.842mil  T        270.00 RELAY SP       
+RE5        G5RL-1A-E         5009.842mil    767.716mil    5157.48mil   1259.842mil    5157.48mil   1259.842mil  T        270.00 RELAY SP       
+RE4        G5RL-1A-E         4498.032mil    767.716mil   4645.669mil   1259.842mil   4645.669mil   1259.842mil  T        270.00 RELAY SP       
+RE3        G5RL-1A-E          3986.22mil    767.716mil   4133.858mil   1259.842mil   4133.858mil   1259.842mil  T        270.00 RELAY SP       
+RE2        G5RL-1A-E         3474.409mil    767.716mil   3622.047mil   1259.842mil   3622.047mil   1259.842mil  T        270.00 RELAY SP       
+RE1        G5RL-1A-E         2962.598mil    767.716mil   3110.236mil   1259.842mil   3110.236mil   1259.842mil  T        270.00 RELAY SP       
+R36        R1206                 1120mil        620mil       1120mil        620mil       1120mil    677.087mil  T        270.00 Res3           
+R35        R1206                 1700mil        180mil       1700mil        180mil   1757.087mil        180mil  T        180.00 Res3           
+R34        R1206             1062.992mil     157.48mil   1062.992mil     157.48mil   1120.079mil     157.48mil  T        180.00 Res3           
+R30        R0805                 5210mil       1005mil       5210mil       1005mil   5247.402mil       1005mil  B        180.00 RES            
+R29        R0805                 3675mil       1005mil       3675mil       1005mil   3712.402mil       1005mil  B        180.00 RES            
+R26        R0805                 3200mil       1005mil       3200mil       1005mil   3237.402mil       1005mil  B        180.00 RES            
+R25        R0805                 4695mil       1007mil       4695mil       1007mil   4732.402mil       1007mil  B        180.00 RES            
+R22        R0805                 2690mil       1005mil       2690mil       1005mil   2727.402mil       1005mil  B        180.00 RES            
+R21        R0805                 4185mil       1005mil       4185mil       1005mil   4222.402mil       1005mil  B        180.00 RES            
+R6         R0805                 5250mil       1120mil       5250mil       1120mil       5250mil   1082.598mil  B         90.00                
+R5         R0805                 4655mil       1120mil       4655mil       1120mil       4655mil   1082.598mil  B         90.00                
+Q7         ONSC-TO-220-3-221A-09_AF        740mil        660mil        740mil        660mil        740mil        560mil  T        180.00 IRF540N        
+Q6         INF-SOT23_L       5354.331mil       1120mil   5354.331mil       1120mil   5311.024mil   1082.598mil  B        360.00 BCV47          
+Q3         INF-SOT23_L       3818.898mil       1120mil   3818.898mil       1120mil    3775.59mil   1082.598mil  B        360.00 BCV47          
+Q2         INF-SOT23_L           3345mil       1120mil       3345mil       1120mil   3301.693mil   1082.598mil  B        360.00 BCV47          
+Q5         INF-SOT23_L        4842.52mil       1120mil    4842.52mil       1120mil   4799.213mil   1082.598mil  B        360.00 BCV47          
+Q1         INF-SOT23_L           2840mil       1120mil       2840mil       1120mil   2796.693mil   1082.598mil  B        360.00 BCV47          
+Q4         INF-SOT23_L       4330.709mil       1120mil   4330.709mil       1120mil   4287.401mil   1082.598mil  B        360.00 BCV47          
+D12        SMB               6496.063mil   1062.992mil   6496.063mil   1062.992mil   6496.063mil    1157.48mil  B        270.00 SMBJ15A        
+D18        SMB                    960mil        640mil        960mil        640mil        960mil    545.512mil  T         90.00 ZENER          
+D17        ONSC-AXIAL_LEAD-2-59AA-01_P        920mil        360mil        920mil        360mil     691.85mil        360mil  T        360.00 FR207          
+D26        SOT23-123          5515.75mil   1200.003mil   5511.811mil       1200mil   5472.443mil   1162.602mil  B         90.00 BAS40-05       
+D23        SOT23-123         3980.317mil   1200.003mil   3976.378mil       1200mil    3937.01mil   1162.602mil  B         90.00 BAS40-05       
+D22        SOT23-123         3483.939mil   1200.003mil       3480mil       1200mil   3440.632mil   1162.602mil  B         90.00 BAS40-05       
+D25        SOT23-123         5003.939mil   1200.003mil       5000mil       1200mil   4960.632mil   1162.602mil  B         90.00 BAS40-05       
+D21        SOT23-123         2983.939mil   1200.003mil       2980mil       1200mil   2940.632mil   1162.602mil  B         90.00 BAS40-05       
+D24        SOT23-123         4492.128mil   1200.003mil   4488.189mil       1200mil   4448.821mil   1162.602mil  B         90.00 BAS40-05       
+CN1        HT5.08-4P-H       6299.213mil    841.732mil   6299.213mil   1141.732mil   6299.213mil   1141.732mil  T        270.00 HT5.08-4P-H    
+C28        CA10X16P5         5994.095mil    895.669mil   5994.095mil    797.244mil   5994.095mil    797.244mil  T         90.00 CAPACITOR      
+C27        C0805                 1555mil       1150mil       1555mil       1150mil   1517.598mil       1150mil  B        360.00 CAP            
+C20        C0805              433.071mil   1062.992mil    433.071mil   1062.992mil    470.473mil   1062.992mil  B        180.00 CAP 0.1uF 50V 0805(2012)
+C19        C0805                  356mil        747mil        356mil        747mil    318.598mil        747mil  B        360.00 CAP 0.1uF 50V 0805(2012)
+C4         C0805                 1719mil        269mil       1719mil        269mil   1681.598mil        269mil  T        360.00 CAP            
+C3         CA10X16P5         1929.134mil    629.921mil   1830.709mil    629.921mil   1830.709mil    629.921mil  T        360.00 CAPACITOR      
+C1         C0805                 2252mil        121mil       2252mil        121mil   2214.598mil        121mil  B        360.00 CAP            
+D3         SMA                472.441mil    944.882mil    472.441mil    944.882mil    387.795mil    944.882mil  B         90.00 SMAJ5.0A       
+D4         SMA                472.441mil   1259.842mil    472.441mil   1259.842mil    387.795mil   1259.842mil  B         90.00 SMAJ5.0A       
+C7         CA10X16P5         1161.417mil   1082.677mil   1062.992mil   1082.677mil   1062.992mil   1082.677mil  T        360.00 CAPACITOR      
+C8         C0805                 1580mil        360mil       1580mil        360mil   1542.598mil        360mil  T        360.00 CAP            
+C9         C0805                  842mil        701mil        842mil        701mil        842mil    663.598mil  B         90.00 CAP            
+C31        C0805                 2650mil       1120mil       2650mil       1120mil       2650mil   1082.598mil  B         90.00 CAP            
+C32        C0805                 3155mil       1120mil       3155mil       1120mil       3155mil   1082.598mil  B         90.00 CAP            
+C33        C0805                 3635mil       1120mil       3635mil       1120mil       3635mil   1082.598mil  B         90.00 CAP            
+C34        C0805                 4145mil       1120mil       4145mil       1120mil       4145mil   1082.598mil  B         90.00 CAP            
+C35        C0805                 4735mil       1120mil       4735mil       1120mil       4735mil   1082.598mil  B         90.00 CAP            
+C36        C0805                 5170mil       1120mil       5170mil       1120mil       5170mil   1082.598mil  B         90.00 CAP            
+L1         BVR2.5            2992.126mil     118.11mil   2992.126mil     118.11mil   2992.126mil     118.11mil  T        180.00 Socket         
+L2         BVR2.5            3503.937mil     118.11mil   3503.937mil     118.11mil   3503.937mil     118.11mil  T        180.00 Socket         
+L3         BVR2.5            4015.748mil     118.11mil   4015.748mil     118.11mil   4015.748mil     118.11mil  T        180.00 Socket         
+L4         BVR2.5            4527.559mil     118.11mil   4527.559mil     118.11mil   4527.559mil     118.11mil  T        180.00 Socket         
+L5         BVR2.5             5039.37mil     118.11mil    5039.37mil     118.11mil    5039.37mil     118.11mil  T        180.00 Socket         
+L6         BVR2.5            5551.181mil     118.11mil   5551.181mil     118.11mil   5551.181mil     118.11mil  T        180.00 Socket         
+Lin        BVR2.5            6062.992mil     118.11mil   6062.992mil     118.11mil   6062.992mil     118.11mil  T        180.00 Socket         
+T1         PH2.0-2P-H          236.22mil    866.142mil     236.22mil    826.772mil     236.22mil    826.772mil  T        270.00 Header 2       
+T2         PH2.0-2P-H          236.22mil   1141.732mil     236.22mil   1102.362mil     236.22mil   1102.362mil  T        270.00 Header 2       
+
