@@ -128,7 +128,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -137,6 +137,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POGGCWCF
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GD_Tcontroller\Design Rule Check - GD_Tcontroller.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
