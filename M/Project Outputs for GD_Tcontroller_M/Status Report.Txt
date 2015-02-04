@@ -1,10 +1,9 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [GD_Tcontroller_M.PrjPcb]
-   Generated File[Pick Place for GD_Tcontroller_M.txt]
 
 
-Files Generated   : 1
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 16:57:30 On 2015/2/3
+Finished Output Generation At 13:55:43 On 2015/2/4
