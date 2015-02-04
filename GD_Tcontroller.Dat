@@ -1,0 +1,26 @@
+Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~GD_Tcontroller.PrjPcb|ReportField=ProjectFullPath~C:\Users\jeqi\Documents\GD_Tcontroller\GD_Tcontroller.PrjPcb|ReportField=Title~Bill of Materials For Project [GD_Tcontroller.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~54|ReportField=ReportTime~13:20:41|ReportField=ReportDate~2015/2/4|ReportField=ReportDateTime~2015/2/4 13:20:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~GD_Tcontroller.PrjPcb|ReportField=DataSourceFullPath~C:\Users\jeqi\Documents\GD_Tcontroller\GD_Tcontroller.PrjPcb
+TAN 22uF 10V 3216|C3, C4, C5, C8|4
+TAN 10uF 35V 6032|C24|1
+TAN 4.7uF 35V 6032|C25|1
+TAN 4.7uF 25V 3216|C22|1
+STM32F103C8T6TR|U3|1
+RES RES 0 Ohm 5% 0805(2012)|R12, R14|2
+RES 910K 5% 0805(2012)|R42|1
+RES 470 Ohm 5% 0805|R37, R38, R39, R41, R43, R44, R45|7
+RES 10K 5% 0805(2012)|R13, R18, R40|3
+RES 4.7K 5% 0805(2012)|R10, R11|2
+LED White 3mm|D20, D21, D22, D23|4
+LED-RGB,3528|D19|1
+Header 4|P3|1
+FFC-24P,0.5mm,Up contact|CN2|1
+DC3-12P,2.54mm|P1|1
+DC3-10P,2.54mm|P2|1
+CR1220 Sockect SMD|BAT1|1
+CAP 22pF 50V 0805(2012)|C1, C2, C14, C15|4
+CAP 0.1uF 50V 0805(2012)|C7, C9, C10, C11, C16, C17, C21, C23, C26|9
+CAP 0.01uF 50V 0805(2012)|C6|1
+BUTTON,6X6X5mm|B1, K1|2
+AT24C02BN-SP25-T|U4|1
+32.768K 3X8mm|Y1|1
+8MHz HC-49S|Y2|1
+1N4148 1206|D2, D3|2
