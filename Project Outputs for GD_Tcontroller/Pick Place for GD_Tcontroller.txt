@@ -1,64 +1,55 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-P1         DC3-12P            761.812mil    916.142mil    511.812mil    866.142mil    511.812mil    866.142mil  T        360.00 Header 6X2     
-J6         SCREWFG3_2        5826.773mil     118.11mil   5826.773mil     118.11mil   5826.773mil     118.11mil  T          0.00 Socket         
-J5         SCREWFG3_2        5826.773mil    984.252mil   5826.773mil    984.252mil   5826.773mil    984.252mil  T          0.00 Socket         
-J4         SCREWFG3_2        2834.646mil     118.11mil   2834.646mil     118.11mil   2834.646mil     118.11mil  T          0.00 Socket         
-J3         SCREWFG3_2        3582.678mil    984.252mil   3582.678mil    984.252mil   3582.678mil    984.252mil  T          0.00 Socket         
-J2         SCREWFG3_2         118.111mil     118.11mil    118.111mil     118.11mil    118.111mil     118.11mil  T          0.00 Socket         
-J1         SCREWFG3_2         118.111mil    984.252mil    118.111mil    984.252mil    118.111mil    984.252mil  T          0.00 Socket         
-C22        TAN3216           4712.001mil    728.779mil   4712.001mil    728.779mil   4712.001mil    783.898mil  T        270.00 CAPACITOR      
-C8         TAN3216           1773.001mil    646.779mil   1773.001mil    646.779mil   1773.001mil    591.661mil  T         90.00 CAPACITOR      
-C5         TAN3216           2408.001mil     133.78mil   2408.001mil     133.78mil   2408.001mil     78.661mil  T         90.00 CAPACITOR      
-P2         DC3-10P           1774.804mil    916.142mil   1574.804mil    866.142mil   1574.804mil    866.142mil  T        360.00 Header 5X2     
-P3         HDR1X4              78.741mil    598.032mil     78.741mil    748.032mil     78.741mil    748.032mil  T        270.00 Header 4       
-Y2         XTAL_US           1898.064mil     147.78mil   1802.001mil     147.78mil   1802.001mil     147.78mil  T        360.00 8MHz           
-U4         8S1_L              472.001mil    261.779mil    472.001mil    261.779mil    547.001mil    354.299mil  T        270.00 AT24C02BN-SP25-T
-U3         STM-LQFP48_L      1377.954mil     275.59mil   1377.954mil    275.591mil   1269.686mil    117.126mil  T         90.00 STM32F103C8T6TR
-R45        R0805             2091.001mil    681.779mil   2091.001mil    681.779mil   2053.599mil    681.779mil  T        360.00 470 Ohm 5% 0805
-R44        R0805             2449.001mil    739.779mil   2449.001mil    739.779mil   2449.001mil    702.378mil  T         90.00 470 Ohm 5% 0805
-R43        R0805             2844.001mil    739.779mil   2844.001mil    739.779mil   2844.001mil    702.378mil  T         90.00 470 Ohm 5% 0805
-R42        R0805             4609.001mil    748.779mil   4609.001mil    748.779mil   4609.001mil    711.378mil  T         90.00 RES            
-R41        R0805             3239.001mil    739.779mil   3239.001mil    739.779mil   3239.001mil    702.378mil  T         90.00 470 Ohm 5% 0805
-R40        R0805              660.001mil    373.779mil    660.001mil    373.779mil    697.402mil    373.779mil  B        180.00 RES            
-R39        R0805             1445.001mil    621.779mil   1445.001mil    621.779mil   1445.001mil    659.181mil  T        270.00 470 Ohm 5% 0805
-R38        R0805             1526.501mil    621.779mil   1526.501mil    621.779mil   1526.501mil    659.181mil  T        270.00 470 Ohm 5% 0805
-R37        R0805             1608.001mil    622.779mil   1608.001mil    622.779mil   1608.001mil    660.181mil  T        270.00 470 Ohm 5% 0805
-R18        R0805             1365.001mil    307.779mil   1365.001mil    307.779mil   1365.001mil    270.378mil  B         90.00 10K 5% 0805(2012)
-R14        R0805             2532.001mil     85.779mil   2532.001mil     85.779mil   2569.402mil     85.779mil  T        180.00 0 Ohm 5% 0805(2012)
-R13        R0805              480.001mil    373.779mil    480.001mil    373.779mil    517.402mil    373.779mil  B        180.00 10K 5% 0805(2012)
-R12        R0805             2532.001mil     181.78mil   2532.001mil     181.78mil   2569.402mil     181.78mil  T        180.00 10Ohm 5% 0805(2012)
-R11        R0805              316.001mil     250.78mil    316.001mil     250.78mil    316.001mil    288.181mil  T        270.00 4.7K 5% 0805(2012)
-R10        R0805              315.001mil     98.779mil    315.001mil     98.779mil    315.001mil     61.378mil  T         90.00 4.7K 5% 0805(2012)
-K1         AN6_3P6_5          826.773mil    550.681mil    826.773mil    551.181mil    954.773mil    639.181mil  B        180.00 SW PUSHBUTTON  
-D23        LED_DIP           2007.875mil    551.181mil   2007.875mil    551.181mil   2057.875mil    551.181mil  B        180.00 LED Red 3mm    
-D22        LED_DIP           2401.576mil    551.181mil   2401.576mil    551.181mil   2451.576mil    551.181mil  B        180.00 LED Red 3mm    
-D21        LED_DIP           2795.277mil    551.181mil   2795.277mil    551.181mil   2845.277mil    551.181mil  B        180.00 LED Red 3mm    
-D20        LED_DIP           3188.978mil    551.181mil   3188.978mil    551.181mil   3238.978mil    551.181mil  B        180.00 LED Red 3mm    
-D3         DIODE_SOP         3237.087mil    246.063mil   3307.087mil    246.063mil   3307.087mil    246.063mil  T        180.00 1N4148         
-C26        C0805             4365.001mil    743.779mil   4365.001mil    743.779mil   4365.001mil    781.181mil  T        270.00 CAP            
-C25        TAN6032           4487.001mil    839.779mil   4487.001mil    839.779mil   4487.001mil    951.984mil  T        270.00 CAPACITOR      
-C24        TAN6032           4244.001mil    839.779mil   4244.001mil    839.779mil   4244.001mil    951.984mil  T        270.00 CAPACITOR      
-C23        C0805             4801.001mil    704.779mil   4801.001mil    704.779mil   4801.001mil    742.181mil  T        270.00 CAP            
-C21        C0805              820.001mil    373.779mil    820.001mil    373.779mil    857.402mil    373.779mil  B        180.00 CAP            
-C17        C0805              660.001mil     183.78mil    660.001mil     183.78mil    697.402mil     183.78mil  T        180.00 CAP 0.1uF 50V 0805(2012)
-C16        C0805              220.001mil    373.779mil    220.001mil    373.779mil    257.402mil    373.779mil  B        180.00 CAP 0.1uF 50V 0805(2012)
-C15        C0805             1976.001mil     233.78mil   1976.001mil     233.78mil   1938.599mil     233.78mil  B        360.00 CAP 22pF 50V 0805(2012)
-C14        C0805             1828.001mil     233.78mil   1828.001mil     233.78mil   1865.402mil     233.78mil  B        180.00 CAP 22pF 50V 0805(2012)
-C11        C0805             1705.001mil    389.779mil   1705.001mil    389.779mil   1742.402mil    389.779mil  T        180.00 CAP 0.1uF 50V 0805(2012)
-C10        C0805             1139.001mil    505.779mil   1139.001mil    505.779mil   1139.001mil    543.181mil  T        270.00 CAP 0.1uF 50V 0805(2012)
-C9         C0805             1350.001mil    103.779mil   1350.001mil    103.779mil   1387.402mil    103.779mil  B        180.00 CAP 0.1uF 50V 0805(2012)
-C7         C0805             2322.001mil     133.78mil   2322.001mil     133.78mil   2322.001mil     96.378mil  T         90.00 CAP 0.1uF 50V 0805(2012)
-C6         C0805             2236.001mil     132.78mil   2236.001mil     132.78mil   2236.001mil     95.378mil  T         90.00 CAP 0.01uF 50V 0805(2012)
-B1         AN6_3P6_5          314.961mil    550.681mil    314.961mil    551.181mil    442.961mil    639.181mil  B        180.00 SW PUSHBUTTON  
-CN2        FPC24P0_5         4643.549mil    503.181mil   4645.671mil    551.181mil   4872.049mil    551.181mil  T        360.00 EJ00034        
-D19        LED-RGB-3528      1598.485mil    551.181mil   1598.485mil    551.181mil   1629.981mil    498.032mil  B         90.00 LED-RGB        
-E1         OLED             -1968.503mil  -5354.331mil   4645.671mil    551.181mil  -1968.503mil  -5354.331mil  B        180.00 Antenna        
-C1         C0805              860.001mil     196.78mil    860.001mil     196.78mil    822.599mil     196.78mil  T        360.00 CAP 22pF 50V 0805(2012)
-C2         C0805              875.001mil     83.779mil    875.001mil     83.779mil    837.599mil     83.779mil  B        360.00 CAP 22pF 50V 0805(2012)
-Y1         XTAL32             919.001mil     92.779mil   1029.001mil     64.779mil   1029.001mil     64.779mil  T        180.00 32.768K 3X8mm  
-D2         DIODE_SOP         3237.087mil    147.638mil   3307.087mil    147.638mil   3307.087mil    147.638mil  T        180.00 1N4148 1206    
-BAT1       BAT-CR1220        5591.044mil    551.117mil   5590.552mil    551.181mil   5590.552mil    212.535mil  T        360.00 CR1220 Sockect SMD
-C3         TAN3216            380.001mil    903.779mil    380.001mil    903.779mil    380.001mil    848.661mil  B         90.00 CAPACITOR      
-C4         TAN3216           1138.001mil    765.779mil   1138.001mil    765.779mil   1138.001mil    820.898mil  B        270.00 CAPACITOR      
+C3         TAN3216               2607mil       -733mil       2607mil       -733mil       2607mil   -677.882mil  B        270.00 TAN 22uF 10V 3216
+C26        C0805             4240.158mil   -228.346mil   4240.158mil   -228.346mil   4202.756mil   -228.346mil  T        360.00 CAP 0.1uF 50V 0805(2012)
+P1         DC3-20P-2.00      1220.472mil   -748.032mil   1574.803mil   -708.661mil   1574.803mil   -708.661mil  T        180.00 DC3-20P,2.00mm 
+C22        TAN3216            5118.11mil    -118.11mil    5118.11mil    -118.11mil    5118.11mil    -62.992mil  T        270.00 TAN 4.7uF 25V 3216
+C8         TAN3216               1704mil       -745mil       1704mil       -745mil       1704mil   -689.882mil  B        270.00 TAN 22uF 10V 3216
+C5         TAN3216            2245.75mil    -124.93mil    2245.75mil    -124.93mil    2245.75mil   -180.048mil  T         90.00 TAN 22uF 10V 3216
+P3         HDR1X4             601.181mil   -551.181mil    451.181mil   -551.181mil    451.181mil   -551.181mil  T          0.00 Header 4       
+Y2         XTAL_US           1749.606mil    -118.11mil   1845.669mil    -118.11mil   1845.669mil    -118.11mil  T        180.00 8MHz HC-49S    
+U4         8S1_L              472.441mil   -275.591mil    472.441mil   -275.591mil    379.921mil   -350.591mil  B        360.00 AT24C02BN-SP25-T
+U3         STM-LQFP48_L      1299.213mil   -275.591mil   1299.213mil   -275.591mil   1190.945mil   -117.126mil  B        270.00 STM32F103C8T6TR
+R45        R0805                 1790mil       -550mil       1790mil       -550mil   1752.598mil       -550mil  B        360.00 RES 1K 5% 0805 
+R44        R0805                 2380mil       -550mil       2380mil       -550mil   2342.598mil       -550mil  B        360.00 RES 1K 5% 0805 
+R43        R0805             2972.598mil       -550mil   2972.598mil       -550mil   2935.197mil       -550mil  B        360.00 RES 1K 5% 0805 
+R42        R0805             4023.622mil   -228.346mil   4023.622mil   -228.346mil   4061.024mil   -228.346mil  T        180.00 RES 910K 5% 0805(2012)
+R41        R0805             3386.598mil       -391mil   3386.598mil       -391mil   3349.197mil       -391mil  B        360.00 RES 1K 5% 0805 
+R40        R0805                  327mil       -735mil        327mil       -735mil    289.598mil       -735mil  B        360.00 RES 10K 5% 0805(2012)
+R39        R0805                 1240mil       -420mil       1240mil       -420mil   1202.598mil       -420mil  T        360.00 RES 470 Ohm 5% 0805
+R38        R0805                 1240mil       -500mil       1240mil       -500mil   1202.598mil       -500mil  T        360.00 RES 470 Ohm 5% 0805
+R37        R0805                 1240mil       -580mil       1240mil       -580mil   1202.598mil       -580mil  T        360.00 RES 470 Ohm 5% 0805
+R18        R0805                  714mil       -134mil        714mil       -134mil        714mil   -171.402mil  B         90.00 RES 10K 5% 0805(2012)
+R14        R0805              2369.75mil    -172.93mil    2369.75mil    -172.93mil   2407.151mil    -172.93mil  T        180.00 RES RES 0 Ohm 5% 0805(2012)
+R13        R0805                 1627mil       -362mil       1627mil       -362mil   1664.402mil       -362mil  T        180.00 RES 10K 5% 0805(2012)
+R12        R0805              2369.75mil     -76.93mil    2369.75mil     -76.93mil   2407.151mil     -76.93mil  T        180.00 RES RES 0 Ohm 5% 0805(2012)
+R11        R0805              511.811mil    -118.11mil    511.811mil    -118.11mil    474.409mil    -118.11mil  B        360.00 RES 4.7K 5% 0805(2012)
+R10        R0805                  694mil       -339mil        694mil       -339mil        694mil   -376.402mil  B         90.00 RES 4.7K 5% 0805(2012)
+K1         AN6_3P6_5           236.22mil   -550.681mil     236.22mil   -551.181mil    108.221mil   -639.181mil  B        360.00 BUTTON,6X6X7mm 
+D23        LED_DIP           1614.173mil   -551.181mil   1614.173mil   -551.181mil   1664.173mil   -551.181mil  B        180.00 LED White 3mm  
+D22        LED_DIP           2204.724mil   -551.181mil   2204.724mil   -551.181mil   2254.724mil   -551.181mil  B        180.00 LED White 3mm  
+D21        LED_DIP           2795.276mil   -551.181mil   2795.276mil   -551.181mil   2845.276mil   -551.181mil  B        180.00 LED White 3mm  
+D20        LED_DIP           3385.827mil   -551.181mil   3385.827mil   -551.181mil   3435.827mil   -551.181mil  B        180.00 LED White 3mm  
+D3         DIODE_SOP             2761mil       -172mil       2831mil       -172mil       2831mil       -172mil  T        180.00 1N4148 1206    
+C25        TAN6032           4124.016mil   -106.299mil   4124.016mil   -106.299mil   4011.811mil   -106.299mil  T        360.00 TAN 4.7uF 35V 6032
+C24        TAN6032           3653.543mil   -661.417mil   3653.543mil   -661.417mil   3653.543mil   -549.213mil  B        270.00 TAN 10uF 35V 6032
+C23        C0805             5204.724mil    -118.11mil   5204.724mil    -118.11mil   5204.724mil    -80.709mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C21        C0805                  146mil       -737mil        146mil       -737mil    108.598mil       -737mil  B        360.00 CAP 0.1uF 50V 0805(2012)
+C17        C0805                  490mil       -428mil        490mil       -428mil    452.598mil       -428mil  B        360.00 CAP 0.1uF 50V 0805(2012)
+C16        C0805             1626.402mil       -442mil   1626.402mil       -442mil   1663.803mil       -442mil  T        180.00 CAP 0.1uF 50V 0805(2012)
+C15        C0805                 1745mil       -145mil       1745mil       -145mil       1745mil   -182.402mil  B         90.00 CAP 22pF 50V 0805(2012)
+C14        C0805                 1932mil       -145mil       1932mil       -145mil       1932mil   -182.402mil  B         90.00 CAP 22pF 50V 0805(2012)
+C11        C0805             1457.677mil   -307.087mil   1457.677mil   -307.087mil   1457.677mil   -269.685mil  T        270.00 CAP 0.1uF 50V 0805(2012)
+C10        C0805             1180.598mil       -237mil   1180.598mil       -237mil       1218mil       -237mil  T        180.00 CAP 0.1uF 50V 0805(2012)
+C9         C0805             1181.598mil       -318mil   1181.598mil       -318mil       1219mil       -318mil  T        180.00 CAP 0.1uF 50V 0805(2012)
+C7         C0805              2159.75mil    -124.93mil    2159.75mil    -124.93mil    2159.75mil   -162.332mil  T         90.00 CAP 0.1uF 50V 0805(2012)
+C6         C0805              2073.75mil    -125.93mil    2073.75mil    -125.93mil    2073.75mil   -163.332mil  T         90.00 CAP 0.01uF 50V 0805(2012)
+D19        LED-RGB-3528      1023.622mil   -551.181mil   1023.622mil   -551.181mil    970.472mil   -582.677mil  B        360.00 LED-RGB,3528   
+C1         C0805              917.598mil        -60mil    917.598mil        -60mil    880.197mil        -60mil  B        360.00 CAP 22pF 50V 0805(2012)
+C2         C0805                  917mil       -144mil        917mil       -144mil    879.598mil       -144mil  B        360.00 CAP 22pF 50V 0805(2012)
+Y1         XTAL32             913.622mil     -90.11mil   1023.622mil    -118.11mil   1023.622mil    -118.11mil  T        180.00 32.768K 3X8mm  
+D2         DIODE_SOP             2759mil        -71mil       2829mil        -71mil       2829mil        -71mil  T        180.00 1N4148 1206    
+BAT1       BAT-CR1220        5551.673mil   -468.568mil   5551.181mil   -468.504mil   5551.181mil    -807.15mil  T        360.00 CR1220 Sockect SMD
+C4         TAN3216                470mil       -289mil        470mil       -289mil    414.882mil       -289mil  T        360.00 TAN 22uF 10V 3216
+CN2        FPC24P0_5         4684.516mil       -106mil   4686.638mil        -58mil   4913.016mil        -58mil  T        360.00 FFC-24P,0.5mm,Up contact
 

@@ -1,2 +1,2 @@
 Layer Pairs Export File for PCB: C:\Users\jeqi\Documents\GD_Tcontroller\M\GD_Tcontroller_M.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=gd_tcontroller_m.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=gd_tcontroller_m.txt|LayerPairs=gtl,gbl
